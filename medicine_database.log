@@ -1,0 +1,1 @@
+mysqldump --default-character-set=utf8 -h111.198.139.95 -P3306 -ulijie -plijie_kb5 --skip-lock-tables medicine_database finish > /home/kate/LJX/medicine_database/finish.sql
